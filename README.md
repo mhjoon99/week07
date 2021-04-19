@@ -97,7 +97,3 @@
     list_item.xml // recyclerView 레이아웃
     activity_drawer.xml // 메인화면 drawer 레이아웃
     activity_main.xml // 메인 화면 구성 (메인)
-    
-    
-    
-### 다음에 할 일
